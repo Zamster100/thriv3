@@ -293,7 +293,7 @@ const Hero = () => {
           </Canvas>
         </div>
 
-        <div className="relative z-10 container mx-auto px-6 md:px-12 pt-12 md:pt-20 pointer-events-none">
+        <div className="relative z-10 container mx-auto px-6 md:px-12 pt-12 md:pt-20 pointer-events-none h-full">
           <div className="flex flex-col justify-center h-full max-w-[90vw]">
             
             {/* Box 1: Large THRIV3 Logo */}
